@@ -139,7 +139,7 @@ Free onboarding worth ₹5,000. Because we respect the brave.
 
 ---
 
-## 🚀 QUICK START
+🚀 QUICK START
 
 ```bash
 # Clone
@@ -249,7 +249,7 @@ See full license.
 
 ---
 
-## ✅ FINAL APPROVAL CHECKLIST
+✅ FINAL APPROVAL CHECKLIST
 
 | Role | Status |
 |------|--------|

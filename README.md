@@ -179,10 +179,9 @@ streamlit run dashboard.py
 # Generate certificate
 python certificate.py --event "Ganesh Chaturthi 2026"
 ```
-
 ## 📋 PILOT SIGN-UP
 
-🔗 Register your committee: [https://forms.gle/your-survey-link](https://forms.gle/your-survey-link)
+🔗 Register your committee: https://forms.gle/wXN64BpEWcRNNK9z8
 
 (First 10 customers get free onboarding worth ₹5,000)
 

@@ -1,5 +1,8 @@
 # 🏛️ Neelkanth Community Edition ⚔️
 
+**🔗 Live Prototype:** [https://neelkanth-community.streamlit.app/](https://neelkanth-community.streamlit.app/)  
+**🔗 Connect on LinkedIn:** [www.linkedin.com/in/dipankar2026p](http://www.linkedin.com/in/dipankar2026p)
+
 **From Personal Concierge to Personal Governance.**
 
 🚀🏛️🤝 From a kitty party ☕🎉 to a Ganesh Mandal 🪔🙏, from an office outing 🍽️🏢 to a Durga Puja committee 🎭🌺—Neelkanth Community Edition helps organizers track people 👥, money 💰, vendors 🏪, and events 📅, giving them enhanced peace of mind 😌 while eliminating the headache 🤯 of spreadsheets 📊, WhatsApp chaos 📱💬, and endless follow-ups 🔄📞.

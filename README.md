@@ -1,4 +1,10 @@
-# 🏛️ Neelkanth Community Edition ⚔️
+🌺🙏 ASHIRWAD
+🧑‍🤝‍🧑 Organizer's Assistant
+🛡️ Powered by the Neelkanth Community Governance Framework
+✨ From planning to celebration...
+🤝 Bringing people together.
+📋 Simplifying community governance.
+❤️ Empowering every organizer.
 
 **🔗 Live Prototype:** [https://neelkanth-community.streamlit.app/](https://neelkanth-community.streamlit.app/)  
 **🔗 Connect on LinkedIn:** [www.linkedin.com/in/dipankar2026p](http://www.linkedin.com/in/dipankar2026p)
@@ -287,6 +293,37 @@ MIT License — because we're confident enough to let you copy us.
 | Tiger (Lead) | ✅ Signed Off |
 
 ---
+🚀 Experience Ashirwad
+
+Facebook Page
+
+👉 https://www.facebook.com/profile.php?id=61591421513099
+
+Follow us for product updates, Durga Puja planning tips, and community governance insights.
+
+Live Prototype
+
+👉 https://neelkanth-community.streamlit.app/
+
+Explore how Ashirwad helps organizers manage committees, volunteers, vendors, finances, and events.
+
+Feedback Survey
+
+👉 https://forms.gle/ooW1a6hn9AsjQ1Vn9
+
+Your feedback will directly shape the next version of Ashirwad.
+
+Connect with the Creator
+
+LinkedIn
+
+👉 https://www.linkedin.com/in/dipankar2026p
+
+Let's discuss community governance, AI-enabled operations, and digital transformation.
+
+Together, let's simplify community governance.
+
+From Thakur Bayna to Bisorjon, Ashirwad helps organizers focus less on spreadsheets and follow-ups—and more on building memorable community experiences.
 
 **Neelkanth Community Edition ⚔️**  
 **Evidence over Trust. Governance over Ambiguity.**

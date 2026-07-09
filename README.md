@@ -1,6 +1,8 @@
 🌺🙏 ASHIRWAD
 🧑‍🤝‍🧑 Organizer's Assistant
+
 🛡️ Powered by the Neelkanth Community Governance Framework
+
 ✨ From planning to celebration...
 🤝 Bringing people together.
 📋 Simplifying community governance.

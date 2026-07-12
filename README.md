@@ -1,4 +1,7 @@
-🌺🙏 ASHIRWAD
+🙏 Ashirwad – Organizer's Assistant
+🤝 Community Decision Governance Framework™
+
+📋 Transparency | 👥 Accountability | 📂 Continuity | 🌺 Community Outcomes
 
 🧑‍🤝‍🧑 Organizer's Assistant आयोजक का सहायक ಆಯೋಜಕರ ಸಹಾಯಕ நிகழ்ச்சி அமைப்பாளரின் உதவியாளர் ਆਯੋਜਕ ਦਾ ਸਹਾਇਕ
 
@@ -262,8 +265,32 @@ neelkanth-community-edition/
 │   └── test_core.py
 └── config/
     └── festival_calendar.yaml
-```
 
+```
+```markdown
+## 🌺 The Five Pillars of Ashirwad (Where Community Meets Governance)
+
+| Inspiration | Community Attribute | What It Means in Ashirwad |
+| :--- | :--- | :--- |
+| 🎭 **Uttam Kumar's Charisma** | 🤝 Community Engagement | Warm leadership, volunteer participation, inclusive communication, and creating an environment where people naturally want to contribute. |
+| 🎯 **Nana Patekar's Precision** | 📋 Organized Execution | Clear ownership, disciplined coordination, timely decisions, defined responsibilities, and flawless event execution. |
+| 🧠 **Meryl Streep's Brilliance** | 📚 Collective Knowledge | Preserving institutional memory, documenting lessons learned, mentoring future organizers, and ensuring every committee starts stronger than the last. |
+| 🌸 **Julie Andrews' Grace** | 🌿 Seamless Community Experience | Simple workflows, transparent communication, intuitive planning, role clarity, and governance that quietly supports the community. |
+| 🌺 **Rukmini Vasanth's Fresh Perspective** | 🌱 Community Trust & Continuity | Bringing fresh energy, fostering collaboration, preserving community values, strengthening transparency, and ensuring every generation builds upon the legacy of the previous one. |
+
+---
+
+### 🌟 The Ashirwad Philosophy
+
+> 🤝 **Communities thrive through participation.**
+
+> 📋 **Events succeed through coordination.**
+
+> 📚 **Knowledge creates continuity.**
+
+> 🌺 **Governance preserves community legacy.**
+
+---
 ## 📄 LICENSE
 
 MIT License — because we're confident enough to let you copy us.
@@ -328,8 +355,12 @@ Together, let's simplify community governance.
 
 From Thakur Bayna to Bisorjon, Ashirwad helps organizers focus less on spreadsheets and follow-ups—and more on building memorable community experiences.
 
-**Neelkanth Community Edition ⚔️**  
-**Evidence over Trust. Governance over Ambiguity.**
+# 🙏 Ashirwad – Organizer's Assistant
+
+## 🤝 Community Decision Governance Framework™
+
+**📋 Every Decision • 👥 Every Responsibility • 📚 Every Community Legacy**
+
 
 🌍 One Platform. Many Communities.
 🤝 One Mission. Better Governance.

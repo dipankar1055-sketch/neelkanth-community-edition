@@ -1,286 +1,130 @@
-🙏 Ashirwad – Organizer's Assistant
-🤝 Community Decision Governance Framework™
+# 🙏 Ashirwad – Organizer's Assistant
 
-📋 Transparency | 👥 Accountability | 📂 Continuity | 🌺 Community Outcomes
+<div align="center">
 
-🧑‍🤝‍🧑 Organizer's Assistant आयोजक का सहायक ಆಯೋಜಕರ ಸಹಾಯಕ நிகழ்ச்சி அமைப்பாளரின் உதவியாளர் ਆਯੋਜਕ ਦਾ ਸਹਾਇਕ
+# 🤝 Community Decision Governance Framework™
 
-🛡️ Powered by the Neelkanth Community Governance Framework
+### 🛡️ Powered by the Neelkanth Governance Initiative
 
-✨ From planning to celebration...
-🤝 Bringing people together.
-📋 Simplifying community governance.
-❤️ Empowering every organizer.
+**📋 Transparency • 👥 Accountability • 📂 Continuity • 🌺 Community Outcomes**
 
-**🔗 Live Prototype:** [https://neelkanth-community.streamlit.app/](https://neelkanth-community.streamlit.app/)  
-**🔗 Connect on LinkedIn:** [www.linkedin.com/in/dipankar2026p](http://www.linkedin.com/in/dipankar2026p)
+---
 
-**From Personal Concierge to Personal Governance.**
+### *Organize Better. Govern Smarter. Build Stronger Communities.*
 
-🚀🏛️🤝 From a kitty party ☕🎉 to a Ganesh Mandal 🪔🙏, from an office outing 🍽️🏢 to a Durga Puja committee 🎭🌺—Neelkanth Community Edition helps organizers track people 👥, money 💰, vendors 🏪, and events 📅, giving them enhanced peace of mind 😌 while eliminating the headache 🤯 of spreadsheets 📊, WhatsApp chaos 📱💬, and endless follow-ups 🔄📞.
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Version](https://img.shields.io/badge/Version-Community%20Edition-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-lightgrey)
+![Governance](https://img.shields.io/badge/Governance-Community%20Decision%20Framework-green)
 
-## Why 🌺🙏 ASHIRWAD 🧑‍🤝‍🧑 Organizer's Assistant?
+</div>
 
-Most community organizers are volunteers.
+---
 
-They are not accountants.
-They are not auditors.
-They are not professional event managers.
+# 🌍 Welcome to Ashirwad
 
-Yet they are expected to manage:
+Ashirwad – Organizer's Assistant is a **Community Decision Governance Framework™** designed to simplify how communities **plan, coordinate, execute, govern, and preserve** their events.
 
-👥 People
+Whether it is a:
+
+🌺 Durga Puja
+
+🙏 Ganesh Chaturthi
+
+🛕 Temple Festival
+
+🏢 Apartment Association
+
+🤝 NGO
+
+🏫 School Event
+
+🏢 Corporate CSR Program
+
+👨‍👩‍👧 Family Function
+
+🎉 Social Gathering
+
+🚗 Group Vacation
+
+Ashirwad transforms community management from scattered conversations into structured governance.
+
+Instead of relying on:
+
+❌ WhatsApp chaos
+
+❌ Multiple spreadsheets
+
+❌ Paper notebooks
+
+❌ Endless follow-ups
+
+❌ Lost committee knowledge
+
+Ashirwad provides one transparent platform for managing:
+
+👥 Members & Volunteers
+
 💰 Donations & Contributions
+
 🏪 Vendors
-🙋 Volunteers
+
+📦 Assets & Inventory
+
 📅 Events
-📦 Assets
+
 🚨 Incidents
 
-often using only WhatsApp groups, spreadsheets, notebooks and memory.
+📂 Community Knowledge
 
-Neelkanth Community Edition is designed to make community management simpler, more transparent and less stressful.
+Every important decision becomes documented.
 
-> ⚔️ **"Trust is a liability. Code is not."**
->
-> This is not a tracker. This is a **weaponized governance OS** for festivals, puja committees, Ganesh mandalis, RWAs, NGOs, office outings, weekend road trips, and *that* awkward dinner date.
->
-> We don't ask for belief. We deliver **cryptographic proof**.
+Every responsibility becomes visible.
+
+Every community builds upon the experience of the previous one.
 
 ---
 
-## 🩸 WHAT WE HUNT
+# 🏛️ Community Decision Governance Framework™
 
-| Module | What It Does To Chaos |
-|---|---|
-| **Donation Governance** | Stalks every rupee. Trace-ID: `DON-XXXX`. Zero leakage. |
-| **Volunteer Governance** | Tags every soul. QR-checked. Background-verified. |
-| **Vendor Governance** | Brutal PO linkage. Zero payment without a paper trail. |
-| **Asset Governance** | QR-based check-in/out. Loss detection. No excuses. |
-| **Incident & Escalation** | Trigger → Owner → Resolution → Closure. SLA-driven. |
-| **Sentinel (Drift Detection)** | The snitch. Detects donation, vendor, incident drift before it bleeds. ⚠️ |
-| **Kill-Switch** | The executioner. Human-in-Loop. Trigger-happy on risk. ☠️ |
-| **Settlement Engine** | Splits bills like a surgeon. Equal, custom, or per-item. No awkwardness. |
-| **Contribution Ledger** | Tracks who brings what. No duplicate pasta salads. |
-| **Certificate of Integrity** | The ultimate flex. An unbreakable audit badge for your community. 🏆 |
+Ashirwad believes that governance is not only for enterprises.
 
----
+Communities deserve governance too.
 
-## 🎯 TARGETS WE DESTROY
+Good governance creates:
 
-| Domain | Examples |
-|---|---|
-| 🕉️ **Festivals** | Ganesh Chaturthi, Durga Puja, Kali Puja, Onam, Pongal, Halli Jatre, Yakshagana, Bhakt Sammelans, Ayudha Puja, Diwali, Dusshehra |
-| 🕌 **Puja Committees** | Durga Puja committees, Ganesh mandals, temple festival teams, neighborhood puja organizers |
-| 🏢 **RWAs** | Apartment events, welfare programs, community activities |
-| 🏫 **Schools** | Annual Day, Sports Day, Science Fair, educational events |
-| 🎓 **Colleges** | Cultural fests, tech fests, elections, alumni meets, competitions |
-| 🍻 **Office Politics** | Team lunches, farewells, birthday treats, manager-led offsites |
-| 🌴 **Lifestyle Chaos** | Friends' outings, picnics, excursions, group vacations, road trips |
-| 💑 **That Date** | Discreet split. No guilt. No awkwardness. |
-| 🎉 **Social Events** | Kitty parties, potlucks, birthday parties, baby showers, anniversary celebrations |
+📋 Transparency
+
+👥 Accountability
+
+📂 Continuity
+
+🌺 Community Trust
+
+Ashirwad enables every organizing committee to preserve institutional knowledge while making community operations simpler—not more complicated.
 
 ---
 
-## 🌍 FROM PERSONAL CONCIERGE TO PERSONAL GOVERNANCE
+# 🌺 Our Vision
 
-> **We don't just plan the fun. We audit the money.**
->
-> Whether it's a ₹200 chai break or a ₹2,00,000 Goa vacation — if money exchanges hands, we track it. Period.
+Communities are built on trust.
 
-| Operation | The Chaos We Kill | Our Weapon |
-|---|---|---|
-| **Friends' Outing** (Movies, Bowling) | Who paid for tickets? Who owes for popcorn? | `SET-XXXX` Split Engine |
-| **Manager's Team Outing** | Collecting contributions without looking like a beggar. | `COL-XXXX` Collection Ledger |
-| **Picnic / Excursion** | Tracking who brought biryani and who brought just themselves. | `CON-XXXX` Contribution Tracker |
-| **Group Vacation** (Goa, Hills, Road Trip) | Fuel, tolls, hotels, restaurants — every rupee tracked. | **Vacation Mode** (All Modules Active) |
-| **Farewell / Birthday Treat** | Managing the "secret collection" without financial leakage. | `COL-XXXX` + `HAT-ID` |
-| **Potluck / Kitty Party** | Stopping 3 people from bringing the same dish. | `CON-XXXX` Duplicate Check |
-| **Date Night** | Split without the awkward "who pays" dance. | `SET-XXXX` Discreet Mode |
+Trust grows through transparency.
 
-### 🚀 Vacation Mode
+Transparency is sustained through governance.
 
-> Planning a 5-day trip? Neelkanth assigns a **Trip-ID (TRIP-XXXX)**.
->
-> Every expense — fuel, food, stay, booze — gets a Trace-ID.
->
-> At the end, the **Settlement Engine** spits out exactly who owes whom.
->
-> **Evidence. Not feelings.**
-
-### 🔥 Our Rules
-
-- **Rule #1:** We don't care if it's a ₹50 road-trip chai or a ₹5,00,000 international trip.
-- **Rule #2:** If you cancel last minute, the system calculates your penalty. No mercy.
-- **Rule #3:** If money touches it, Neelkanth owns it.
+Ashirwad enables community organizations to preserve knowledge, improve coordination, strengthen accountability, and ensure continuity across generations of organizers.
 
 ---
 
-## 🧠 THE COMPETITION?
+# 🎯 Our Mission
 
-| Competitor | Price (₹) | Modules | Integrity Certificate | Our Move |
-|---|---:|---|---|---|
-| Vendor A | ₹15,000 | Donation Only | ❌ | Overpriced |
-| Vendor B | ₹25,000 | Event Mgmt | ❌ | Bloated |
-| Vendor C | Free | Basic Reports | ❌ | Useless |
-| **Neelkanth** | **₹199–₹9,999** | **7+ Modules** | **✅** | **Inevitable** |
+To help every organizer spend less time managing spreadsheets and follow-ups—and more time building memorable community experiences.
 
 ---
 
-## 💰 PRICING (Non-Negotiable. We Don't Bargain.)
-
-> **We don't charge for software. We charge for the chaos we kill.**
-
-| Tier | Customer Type | Pilot Price (₹/yr) | Regular Price (₹/yr) |
-|---|---|---:|---:|
-| **Starter** | Small RWA / Local Festival | ₹499 | ₹999 |
-| **Pro** | Medium Ganesh Mandal / NGO | ₹1,499 | ₹2,999 |
-| **Premium** | Large Durga Puja / Temple Trust | ₹2,499 | ₹4,999 |
-| **Enterprise** | Multiple events / Districts | ₹4,999 | ₹9,999 |
-| **Social Edition** | Kitty Parties / Potlucks / Office Lunches | ₹249 | ₹499 |
-| **Pookie Edition** 🆕 | Party Planners / Professional Kitty Organisers | ₹199 | ₹399 |
-| **Vacation Mode** 🆕 | Friends' Outings / Picnics / Group Trips | ₹499 | ₹999 |
-| **Tinder Edition** ✨ | For *that* dinner date (discreet split) | ₹99 | ₹199 |
-
----
-
-### 🎖️ WE SALUTE OUR BRAVE — FREE FOR THE FORCES
-
-> *"Governance should protect those who protect us."*
-
-| Force | Applicability |
-|---|---|
-| 🇮🇳 **Indian Defence Forces** | Army, Navy, Air Force — all ranks, veterans, and their families |
-| 🇮🇳 **CAPF** (Central Armed Police Forces) | CRPF, BSF, CISF, ITBP, SSB, Assam Rifles, NSG |
-| 🇮🇳 **State & UT Police Forces** | All state police departments and Union Territory police |
-| 🏡 **Their Societies, Quarters & Welfare Associations** | AWWA, AFWA, NWA, and all service-associated housing complexes |
-
-| Tier | Customer Type | Pilot Price (₹/yr) | Regular Price (₹/yr) |
-|---|---|---:|---:|
-| **Forces Edition** 🇮🇳 | Defence / CAPF / Police Personnel & Societies | **₹199 (lifetime)** | **₹199 (lifetime)** |
-
-**What they get:**
-- ₹199 lifetime — flat. No annual renewal.
-- Free till service expiry — active, retired, or family coverage.
-- Full access to all Neelkanth Community Edition modules.
-
-**For foreign enquiries:**  
-Pricing and licensing will be decided on a **case-by-case basis** — depending on region, scale, and operational requirements.
-
-### 🔥 First 50 Adopters (Non-Forces)
-
-Free onboarding worth ₹5,000. Because we respect the brave.
-
-### 🚫 No free trials. No begging. You pay for evidence, not hopes.
-
----
-
-## 🚀 QUICK START
-
-```bash
-# Clone
-git clone https://github.com/dipankar1055-sketch/neelkanth-community-edition.git
-cd neelkanth-community-edition
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Initialise database
-python init_db.py
-
-# Run dashboard
-streamlit run dashboard.py
-
-# Generate certificate
-python certificate.py --event "Ganesh Chaturthi 2026"
-```
-## 📋 PILOT SIGN-UP
-
-🔗 Register your committee: https://forms.gle/wXN64BpEWcRNNK9z8
-
-(First 10 customers get free onboarding worth ₹5,000)
-
-## 🗓️ FESTIVAL CALENDAR (2026)
-
-| Festival | Date | Community | States |
-|---|---|---|---|
-| Lohri | Jan 13 | Sikh / Punjabi | Punjab, Haryana |
-| Makar Sankranti | Jan 14 | Hindu | Gujarat, Maharashtra |
-| Pongal | Jan 14–16 | Tamil | Tamil Nadu |
-| Vasant Panchami | Jan 23 | Hindu | West Bengal, Bihar, UP |
-| Holi | Mar 4 | Hindu / All | Nationwide |
-| Eid al-Fitr | Mar 20 | Muslim | Nationwide |
-| Onam | Aug 26 | All Communities | Kerala |
-| Ganesh Chaturthi | Sep 14 | Hindu | MH, KA, AP, Goa |
-| Durga Puja | Oct 17–20 | Hindu / All | West Bengal, Tripura |
-| Dusshehra | Oct 20 | Hindu | Nationwide |
-| Diwali | Nov 8 | Hindu / Sikh / Jain | Nationwide |
-
-Full calendar available in `config/festival_calendar.yaml`.
-
-## 🗣️ LANGUAGES SUPPORTED
-
-| Category | Languages |
-|---|---|
-| Indian Scheduled (22) | Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu, Urdu |
-| Additional Indian | Mizo, Garo, Khasi, Tulu, Kodava |
-| International | Chinese, Japanese, Korean, Arabic, Persian, Hebrew, English, Armenian, Greek, Portuguese, Spanish, French, German, Russian, Italian |
-| Total | 43+ languages |
-
-## 📁 REPO STRUCTURE
-
-```text
-neelkanth-community-edition/
-├── README.md                     # This file
-├── LICENSE                       # MIT License
-├── .gitignore                    # Python + Neelkanth specific
-├── requirements.txt              # Dependencies
-├── init_db.py                    # Database initialisation
-├── dashboard.py                  # Streamlit UI
-├── certificate.py                # Certificate generator
-├── src/
-│   ├── core/
-│   │   └── neelkanth_os.py       # Full Python prototype
-│   ├── governance/
-│   │   ├── donation.py
-│   │   ├── volunteer.py
-│   │   ├── vendor.py
-│   │   ├── asset.py
-│   │   ├── incident.py
-│   │   ├── escalation.py
-│   │   └── social.py
-│   ├── sentinel/
-│   │   └── drift_detector.py
-│   └── killswitch/
-│       └── switch.py
-├── docs/
-│   ├── user_guide.md
-│   ├── api_reference.md
-│   └── pilot_guide.md
-├── surveys/
-│   └── pilot_questionnaire.md
-├── scripts/
-│   └── deploy.sh
-├── tests/
-│   └── test_core.py
-└── config/
-    └── festival_calendar.yaml
-
-```
-```markdown
-## 🌺 The Five Pillars of Ashirwad (Where Community Meets Governance)
-
-| Inspiration | Community Attribute | What It Means in Ashirwad |
-| :--- | :--- | :--- |
-| 🎭 **Uttam Kumar's Charisma** | 🤝 Community Engagement | Warm leadership, volunteer participation, inclusive communication, and creating an environment where people naturally want to contribute. |
-| 🎯 **Nana Patekar's Precision** | 📋 Organized Execution | Clear ownership, disciplined coordination, timely decisions, defined responsibilities, and flawless event execution. |
-| 🧠 **Meryl Streep's Brilliance** | 📚 Collective Knowledge | Preserving institutional memory, documenting lessons learned, mentoring future organizers, and ensuring every committee starts stronger than the last. |
-| 🌸 **Julie Andrews' Grace** | 🌿 Seamless Community Experience | Simple workflows, transparent communication, intuitive planning, role clarity, and governance that quietly supports the community. |
-| 🌺 **Rukmini Vasanth's Fresh Perspective** | 🌱 Community Trust & Continuity | Bringing fresh energy, fostering collaboration, preserving community values, strengthening transparency, and ensuring every generation builds upon the legacy of the previous one. |
-
----
-
-### 🌟 The Ashirwad Philosophy
+# 🌟 The Ashirwad Philosophy
 
 > 🤝 **Communities thrive through participation.**
 
@@ -291,91 +135,1253 @@ neelkanth-community-edition/
 > 🌺 **Governance preserves community legacy.**
 
 ---
-## 📄 LICENSE
 
-MIT License — because we're confident enough to let you copy us.
+# 🌺 The Five Pillars of Ashirwad
+## *(Where Community Meets Governance)*
 
-## 🧠 ALPHA'S ARCHITECTURAL SIGN‑OFF
-
-| Criteria | Status | Notes |
-|---|---|---|
-| Sentinel Logic | ✅ | Matches `drift_detector.py` |
-| Kill-Switch Mode | ✅ | Default `HUMAN_IN_LOOP` — safe |
-| Trace-ID & HAT-ID | ✅ | Implemented in `neelkanth_os.py` |
-| SQLite Persistence | ✅ | `init_db.py` creates all tables |
-| Festival Calendar | ✅ | YAML-based, updateable without code changes |
-| Multi-Lingual Support | ✅ | 43+ languages, configurable |
-| Social Modules | ✅ | Contribution + Settlement engines present |
-| Vacation Mode | ✅ | All modules combined under Trip-ID |
-| Forces Pricing | ✅ | ₹199 lifetime — code config supports it |
-
-**Final Verdict:** ✅ **ARCHITECTURALLY SOUND. READY TO DEPLOY.**
-
-## ✅ FINAL APPROVAL CHECKLIST
-
-| Role | Status |
-|---|---|
-| Alpha (Architecture) | ✅ Approved |
-| Bravo (Dev) | ✅ Code matches README |
-| Charlie (Red Team) | ✅ No critical gaps |
-| Delta (Pilot) | ✅ Pricing + survey ready |
-| Echo (BA) | ✅ Verified against requirements |
-| Tiger (Lead) | ✅ Signed Off |
+| Inspiration | Community Attribute | What It Means in Ashirwad |
+|-------------|--------------------|---------------------------|
+| 🎭 **Uttam Kumar's Charisma** | 🤝 Community Engagement | Warm leadership, volunteer participation, inclusive communication, and creating an environment where people naturally want to contribute. |
+| 🎯 **Nana Patekar's Precision** | 📋 Organized Execution | Clear ownership, disciplined coordination, timely decisions, defined responsibilities, and flawless event execution. |
+| 🧠 **Meryl Streep's Brilliance** | 📚 Collective Knowledge | Preserving institutional memory, documenting lessons learned, mentoring future organizers, and ensuring every committee becomes stronger than the previous one. |
+| 🌸 **Julie Andrews' Grace** | 🌿 Seamless Community Experience | Elegant planning, intuitive coordination, transparent communication, role clarity, and governance that quietly supports the community. |
+| 🌺 **Rukmini Vasanth's Fresh Perspective** | 🌱 Community Trust & Continuity | Bringing fresh energy, encouraging collaboration, strengthening transparency, preserving community values, and ensuring every generation builds upon the legacy of the previous one. |
 
 ---
-🚀 Experience Ashirwad
 
-Facebook Page
+# 🎯 Why Ashirwad?
 
-👉 https://www.facebook.com/profile.php?id=61591421513099
+Community events often suffer because of:
 
-Follow us for product updates, Durga Puja planning tips, and community governance insights.
+- Volunteers don't know their responsibilities.
+- Committee knowledge disappears every year.
+- Financial records become fragmented.
+- Vendor coordination becomes difficult.
+- Communication is scattered across multiple platforms.
+- Assets are lost or forgotten.
+- New committees restart from zero.
 
-Live Prototype
+Ashirwad solves these problems through structured governance.
 
-👉 https://neelkanth-community.streamlit.app/
+---
 
-Explore how Ashirwad helps organizers manage committees, volunteers, vendors, finances, and events.
+# ✨ Key Features
 
-Feedback Survey
+### 👥 Volunteer Governance
 
-👉 https://forms.gle/ooW1a6hn9AsjQ1Vn9
+Assign responsibilities.
 
-Your feedback will directly shape the next version of Ashirwad.
+Track participation.
 
-Connect with the Creator
+Preserve volunteer history.
 
-LinkedIn
+---
 
-👉 https://www.linkedin.com/in/dipankar2026p
+### 💰 Donation Governance
 
-Let's discuss community governance, AI-enabled operations, and digital transformation.
+Transparent contribution tracking.
 
-Together, let's simplify community governance.
+Digital records.
 
-From Thakur Bayna to Bisorjon, Ashirwad helps organizers focus less on spreadsheets and follow-ups—and more on building memorable community experiences.
+Sponsor management.
+
+---
+
+### 📅 Event Governance
+
+Planning.
+
+Scheduling.
+
+Execution.
+
+Review.
+
+Lessons learned.
+
+---
+
+### 📦 Asset Governance
+
+Inventory.
+
+Custodian allocation.
+
+Movement tracking.
+
+Maintenance history.
+
+---
+
+### 🏪 Vendor Governance
+
+Vendor registration.
+
+Purchase records.
+
+Payments.
+
+Documentation.
+
+---
+
+### 📚 Community Knowledge Governance
+
+Meeting minutes.
+
+Decision registers.
+
+Templates.
+
+SOPs.
+
+Lessons learned.
+
+Committee continuity.
+
+---
+
+# 🌍 Who Can Use Ashirwad?
+
+Ashirwad is designed for:
+
+🌺 Durga Puja Committees
+
+🛕 Temple Trusts
+
+🏢 Resident Welfare Associations (RWAs)
+
+🏠 Apartment Associations
+
+🤝 NGOs
+
+🏫 Schools & Colleges
+
+🏢 Corporate CSR Teams
+
+👨‍👩‍👧 Family Events
+
+🎉 Social Clubs
+
+🏆 Sports Associations
+
+🌍 Cultural Organizations
+
+Any community that believes governance should strengthen people—not burden them.
+
+---
+
+# 🛡️ Our Governance Promise
+
+### 📋 Every Decision.
+
+### 👥 Every Responsibility.
+
+### 📂 Every Community Legacy.
+
+---
+
+> **🙏 Ashirwad – Organizer's Assistant**
+>
+> **🤝 Community Decision Governance Framework™**
+>
+> **Powered by the Neelkanth Governance Initiative**
+
+---
+
+# 🚀 Core Governance Modules
+
+Ashirwad transforms community management into a structured governance platform where every activity becomes **transparent, accountable, and repeatable**.
+
+Instead of scattered records and disconnected conversations, every event becomes part of an institutional knowledge system.
+
+---
+
+# 👥 Volunteer Governance
+
+Volunteers are the heart of every successful community.
+
+Ashirwad helps committees:
+
+✅ Register Volunteers
+
+✅ Allocate Responsibilities
+
+✅ Assign Team Leads
+
+✅ Track Attendance
+
+✅ Record Contributions
+
+✅ Recognize Volunteers
+
+✅ Preserve Volunteer History
+
+### 🎯 Outcome
+
+- Higher participation
+- Better coordination
+- Clear accountability
+- Stronger volunteer engagement
+
+---
+
+# 💰 Donation & Contribution Governance
+
+Trust begins with financial transparency.
+
+Ashirwad records:
+
+💵 Cash Donations
+
+🏦 Bank Transfers
+
+📱 UPI Payments
+
+🎁 In-kind Contributions
+
+🤝 Sponsorships
+
+🧾 Vendor Credits
+
+Every transaction receives:
+
+📋 Contribution ID
+
+📅 Timestamp
+
+👤 Contributor
+
+💰 Amount
+
+📂 Supporting Evidence
+
+### 🎯 Outcome
+
+Transparent finances.
+
+Community confidence.
+
+Simplified auditing.
+
+---
+
+# 🏪 Vendor Governance
+
+Community events depend on trusted vendors.
+
+Ashirwad manages:
+
+📋 Vendor Registration
+
+📞 Contact Directory
+
+📄 Quotations
+
+📝 Purchase Orders
+
+📦 Deliveries
+
+💳 Payments
+
+⭐ Vendor Performance
+
+### 🎯 Outcome
+
+Better vendor relationships.
+
+Improved negotiation.
+
+Complete procurement history.
+
+---
+
+# 📦 Asset Governance
+
+Community assets should never disappear after every event.
+
+Track:
+
+🪔 Puja Materials
+
+🎪 Decorations
+
+🔊 Sound Systems
+
+💡 Lighting
+
+🪑 Furniture
+
+📱 Electronics
+
+📚 Books
+
+🏆 Awards
+
+Every asset receives:
+
+📦 Asset ID
+
+📍 Location
+
+👤 Custodian
+
+📅 Check-In
+
+📅 Check-Out
+
+📝 Maintenance History
+
+### 🎯 Outcome
+
+No missing assets.
+
+No duplicate purchases.
+
+Institutional memory.
+
+---
+
+# 📅 Event Governance
+
+Ashirwad supports complete event lifecycle management.
+
+Plan
+
+↓
+
+Coordinate
+
+↓
+
+Execute
+
+↓
+
+Review
+
+↓
+
+Preserve Knowledge
+
+Suitable for:
+
+🌺 Durga Puja
+
+🙏 Ganesh Chaturthi
+
+🎭 Cultural Programs
+
+🏆 Competitions
+
+📖 Workshops
+
+🎓 Educational Events
+
+🎉 Social Gatherings
+
+🏢 Corporate CSR Activities
+
+🏡 Apartment Events
+
+---
+
+# 🚨 Incident Governance
+
+Unexpected situations happen.
+
+Ashirwad documents:
+
+⚠️ Safety Incidents
+
+⚠️ Vendor Issues
+
+⚠️ Financial Exceptions
+
+⚠️ Volunteer Conflicts
+
+⚠️ Operational Delays
+
+Every incident records:
+
+📋 Incident Number
+
+👤 Owner
+
+📅 Timeline
+
+📂 Evidence
+
+✅ Resolution
+
+📖 Lessons Learned
+
+---
+
+# 📚 Community Knowledge Governance
+
+One of Ashirwad's biggest differentiators.
+
+Instead of knowledge disappearing every year...
+
+Ashirwad preserves:
+
+📖 SOPs
+
+📋 Templates
+
+📂 Documents
+
+📝 Meeting Minutes
+
+📚 Lessons Learned
+
+🎯 Best Practices
+
+🏆 Success Stories
+
+### Community Memory Never Resets.
+
+Every committee starts from experience—not from scratch.
+
+---
+
+# 🌍 Community Decision Governance Framework™
+
+Ashirwad is built around four governance principles.
+
+---
+
+## 📋 Transparency
+
+Every important decision is documented.
+
+Nothing important is hidden.
+
+---
+
+## 👥 Accountability
+
+Every responsibility has an owner.
+
+No anonymous ownership.
+
+---
+
+## 📂 Continuity
+
+Every event leaves behind knowledge.
+
+Future committees inherit experience instead of rebuilding everything.
+
+---
+
+## 🌺 Community Outcomes
+
+Governance should improve the community experience.
+
+Not increase paperwork.
+
+---
+
+# 🌍 Where Ashirwad Can Be Used
+
+## 🛕 Religious Organizations
+
+🌺 Durga Puja Committees
+
+🙏 Ganesh Mandals
+
+🛕 Temple Trusts
+
+🕌 Mosque Committees
+
+⛪ Church Communities
+
+🙏 Gurudwaras
+
+---
+
+## 🏢 Residential Communities
+
+🏠 Apartment Associations
+
+🏘️ Housing Societies
+
+🏢 Resident Welfare Associations (RWAs)
+
+🌳 Township Communities
+
+---
+
+## 🎓 Educational Institutions
+
+🏫 Schools
+
+🎓 Colleges
+
+🏛️ Universities
+
+👨‍🎓 Alumni Associations
+
+---
+
+## 🤝 NGOs & Social Organizations
+
+Volunteer Groups
+
+Charitable Trusts
+
+Foundations
+
+Community Welfare Organizations
+
+Social Service Clubs
+
+---
+
+## 🏢 Corporate Communities
+
+CSR Events
+
+Employee Engagement
+
+Town Halls
+
+Annual Functions
+
+Sports Meets
+
+Hackathons
+
+Volunteer Programs
+
+---
+
+## 👨‍👩‍👧 Personal Communities
+
+💍 Weddings
+
+🎂 Birthdays
+
+🎉 Anniversaries
+
+🚗 Road Trips
+
+🏖️ Vacations
+
+🧺 Picnics
+
+🍽️ Potlucks
+
+☕ Social Gatherings
+
+---
+
+# 🌟 What Makes Ashirwad Different?
+
+Traditional Event Apps ask:
+
+> **"How do we manage an event?"**
+
+Ashirwad asks:
+
+> **"How do we govern a community?"**
+
+That difference changes everything.
+
+Because governance creates:
+
+📋 Transparency
+
+👥 Accountability
+
+📂 Continuity
+
+📚 Institutional Memory
+
+❤️ Community Trust
+
+Communities grow stronger when governance becomes part of the culture—not an afterthought.
+
+---
+
+# 📈 Community Outcomes
+
+Organizations using structured governance benefit from:
+
+✅ Better Volunteer Participation
+
+✅ Clear Decision Ownership
+
+✅ Transparent Financial Management
+
+✅ Improved Vendor Coordination
+
+✅ Better Asset Management
+
+✅ Faster Event Planning
+
+✅ Knowledge Preservation
+
+✅ Stronger Community Trust
+
+---
+
+## 🙏 Ashirwad – Organizer's Assistant
+
+### 🤝 Community Decision Governance Framework™
+
+**📋 Every Decision • 👥 Every Responsibility • 📂 Every Community Legacy**
+
+---
+
+# 🏗️ Community Governance Architecture
+
+Ashirwad is built on a simple principle:
+
+> **Good Communities are Built on Good Governance.**
+
+Every activity flows through a structured governance lifecycle.
+
+```text
+Idea
+   │
+   ▼
+Decision
+   │
+   ▼
+Planning
+   │
+   ▼
+Task Assignment
+   │
+   ▼
+Execution
+   │
+   ▼
+Monitoring
+   │
+   ▼
+Closure
+   │
+   ▼
+Lessons Learned
+   │
+   ▼
+Community Knowledge Repository
+```
+
+The result is a continuously improving community where every event strengthens the next one.
+
+---
+
+# 📋 Community Decision Register
+
+Every important decision deserves to be recorded.
+
+Ashirwad captures:
+
+📋 Decision ID
+
+📅 Decision Date
+
+👥 Decision Owner
+
+🏛️ Committee
+
+📝 Description
+
+📂 Supporting Documents
+
+📊 Current Status
+
+📌 Follow-up Actions
+
+This creates a permanent institutional memory.
+
+---
+
+# 👥 Responsibility Register
+
+Every task should have a clearly identified owner.
+
+Ashirwad records:
+
+👤 Owner
+
+📋 Responsibility
+
+📅 Start Date
+
+🎯 Due Date
+
+📈 Progress
+
+✅ Completion
+
+📝 Remarks
+
+No responsibility is left unassigned.
+
+---
+
+# 📂 Community Knowledge Repository
+
+One committee should never start from zero.
+
+The repository preserves:
+
+📖 Standard Operating Procedures (SOPs)
+
+📑 Templates
+
+📝 Meeting Minutes
+
+📚 Lessons Learned
+
+📊 Reports
+
+📷 Event Photos
+
+🎥 Videos
+
+📂 Historical Documents
+
+Every event becomes part of the community's legacy.
+
+---
+
+# 🔄 Event Lifecycle Governance
+
+Every event follows a structured lifecycle.
+
+### 🟢 Stage 1 — Planning
+
+📅 Event Calendar
+
+🎯 Objectives
+
+👥 Team Formation
+
+💰 Budget
+
+📋 Checklist
+
+---
+
+### 🟡 Stage 2 — Preparation
+
+Volunteer Allocation
+
+Vendor Confirmation
+
+Asset Planning
+
+Communication
+
+Risk Assessment
+
+---
+
+### 🔵 Stage 3 — Execution
+
+Live Task Monitoring
+
+Incident Logging
+
+Vendor Coordination
+
+Volunteer Tracking
+
+Expense Recording
+
+---
+
+### 🟣 Stage 4 — Closure
+
+Financial Closure
+
+Vendor Settlement
+
+Asset Verification
+
+Volunteer Recognition
+
+Event Report
+
+---
+
+### 🟤 Stage 5 — Knowledge Preservation
+
+Lessons Learned
+
+Committee Feedback
+
+Document Archival
+
+Template Updates
+
+Knowledge Transfer
+
+---
+
+# 🌍 Repository Structure
+
+```text
+Ashirwad
+│
+├── 📁 Community Governance
+├── 📁 Event Governance
+├── 📁 Volunteer Governance
+├── 📁 Donation Governance
+├── 📁 Vendor Governance
+├── 📁 Asset Governance
+├── 📁 Incident Governance
+├── 📁 Knowledge Repository
+├── 📁 Templates
+├── 📁 SOPs
+├── 📁 Reports
+├── 📁 Media
+├── 📁 Documentation
+└── README.md
+```
+
+---
+
+# 🌐 Multi-Language Ready
+
+Ashirwad is designed for diverse communities.
+
+Supported Languages (Roadmap)
+
+🇮🇳 English
+
+🇮🇳 Bengali
+
+🇮🇳 Hindi
+
+🇮🇳 Kannada
+
+🇮🇳 Tamil
+
+🇮🇳 Telugu
+
+🇮🇳 Malayalam
+
+🇮🇳 Marathi
+
+Additional languages can be added based on community needs.
+
+---
+
+# 🎉 Supported Community Events
+
+Ashirwad supports governance for:
+
+🌺 Durga Puja
+
+🙏 Ganesh Chaturthi
+
+🪔 Diwali
+
+🎄 Christmas
+
+🌙 Eid
+
+🪯 Gurpurab
+
+🏫 School Annual Day
+
+🎭 Cultural Festivals
+
+🏆 Sports Events
+
+🎓 Alumni Meets
+
+🏢 Corporate CSR Programs
+
+🌳 Tree Plantation Drives
+
+🩸 Blood Donation Camps
+
+👨‍👩‍👧 Family Functions
+
+🏖️ Group Vacations
+
+🚗 Road Trips
+
+🎂 Birthday Celebrations
+
+💍 Weddings
+
+…and many more.
+
+---
+
+# 💰 Editions
+
+## 🆓 Community Edition
+
+Perfect for:
+
+🏠 Small Associations
+
+🎭 Local Clubs
+
+Apartment Communities
+
+Volunteer Groups
+
+Small NGOs
+
+---
+
+## ⭐ Premium Edition
+
+Designed for:
+
+Large Cultural Organizations
+
+Temple Trusts
+
+State-Level Associations
+
+NGOs
+
+Corporate Communities
+
+Educational Institutions
+
+---
+
+## 🏛️ Enterprise Integration
+
+Ashirwad can integrate with the
+
+🛡️ **Neelkanth Governance Initiative**
+
+to provide governance continuity between:
+
+👥 Workforce Governance
+
+🏛️ Enterprise Governance
+
+🤝 Community Governance
+
+allowing organizations to extend governance principles beyond the workplace into their communities.
+
+---
+
+# 🚀 Quick Start
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-org/ashirwad.git
+```
+
+Navigate to the project
+
+```bash
+cd ashirwad
+```
+
+Review the documentation.
+
+Explore the governance modules.
+
+Customize templates.
+
+Start organizing your community with structured governance.
+
+---
+
+# 📊 Community Success Metrics
+
+Ashirwad measures success through outcomes—not activities.
+
+📈 Volunteer Participation
+
+📈 Event Completion
+
+📈 Budget Accuracy
+
+📈 Vendor Performance
+
+📈 Knowledge Reuse
+
+📈 Community Satisfaction
+
+📈 Committee Continuity
+
+Because governance should create measurable community value.
+
+---
+
+## 🙏 Ashirwad – Organizer's Assistant
+
+### 🤝 Community Decision Governance Framework™
+
+**🌺 Organize Better • Govern Smarter • Build Stronger Communities**
+
+---
+
+# 🤝 Contributing
+
+Ashirwad is a community-driven initiative.
+
+We welcome contributions from:
+
+🏢 Resident Welfare Associations (RWAs)
+
+🌺 Durga Puja Committees
+
+🛕 Temple Trusts
+
+🤝 NGOs
+
+🏫 Educational Institutions
+
+🏢 Corporate CSR Teams
+
+👨‍👩‍👧 Community Volunteers
+
+Whether you're contributing ideas, documentation, governance templates, feature suggestions, translations, or code, every contribution strengthens the community.
+
+---
+
+# 🌍 Roadmap
+
+## Phase 1 — Community Foundation ✅
+
+- Volunteer Governance
+- Event Governance
+- Donation Governance
+- Vendor Governance
+- Asset Governance
+- Knowledge Repository
+
+---
+
+## Phase 2 — Smart Community Operations 🚧
+
+- Community Dashboard
+- QR-based Volunteer Check-in
+- Digital Visitor Register
+- Digital Asset Register
+- Expense Tracking
+- Vendor Rating System
+
+---
+
+## Phase 3 — AI Assisted Community Governance 🚀
+
+- AI Event Planning Assistant
+- AI Volunteer Recommendations
+- Intelligent Budget Suggestions
+- Knowledge Search
+- Smart Community Reports
+- Community Health Dashboard
+
+---
+
+## Phase 4 — Community Decision Governance Framework™ 🌍
+
+- Decision Register
+- Responsibility Register
+- Community Governance Repository
+- Knowledge Continuity Framework
+- Governance Analytics
+- Multi-community Benchmarking
+
+---
+
+# 📈 Why Ashirwad Matters
+
+Communities often lose years of knowledge because:
+
+❌ Committee members change.
+
+❌ Volunteers move away.
+
+❌ Documents disappear.
+
+❌ Decisions are undocumented.
+
+❌ Lessons are forgotten.
+
+Ashirwad changes that.
+
+Instead of rebuilding every year...
+
+Communities continue growing.
+
+---
+
+# 🏛️ Powered by the Neelkanth Governance Initiative
+
+Ashirwad is powered by the **Neelkanth Governance Initiative**, extending governance principles beyond enterprises into communities.
+
+While Neelkanth focuses on:
+
+🏛️ Enterprise Governance
+
+👥 Workforce Governance
+
+🤖 AI Governance
+
+📊 Operational Governance
+
+Ashirwad brings the same governance philosophy to:
+
+🤝 Communities
+
+🌺 Cultural Organizations
+
+🛕 Religious Institutions
+
+🏢 Resident Associations
+
+🎉 Event Organizers
+
+---
+
+# 🌺 Our Guiding Principle
+
+Governance should not create bureaucracy.
+
+Governance should create confidence.
+
+Communities deserve:
+
+📋 Transparent Decisions
+
+👥 Shared Accountability
+
+📂 Preserved Knowledge
+
+🌺 Stronger Continuity
+
+❤️ Lasting Trust
+
+---
+
+# 📄 License
+
+This project is released under the **MIT License**.
+
+You are free to:
+
+✅ Use
+
+✅ Modify
+
+✅ Share
+
+✅ Improve
+
+with appropriate attribution.
+
+---
+
+# 🙏 Connect With Us
+
+## 🌐 Project Repository
+
+**Ashirwad – Organizer's Assistant**
+
+👉 *https://github.com/dipankar1055-sketch/neelkanth-community-edition*
+
+---
+
+## 💼 Connect on LinkedIn
+
+👤 **Dipankar Kundu**
+
+🔗 https://www.linkedin.com/in/dipankar2026p
+
+---
+
+## 📘 Facebook Community
+
+**Career Command by Chakravarthy**
+
+🔗 https://www.facebook.com/profile.php?id=61591489870360
+
+---
+
+## 📋 Community Governance Diagnostic
+
+Help shape the future of Community Decision Governance.
+
+👉 * https://forms.gle/X7nfJSA74LArJ3jEA*
+
+---
+
+# ⭐ Support the Project
+
+If Ashirwad helps your community:
+
+⭐ Star the repository
+
+🍴 Fork the project
+
+📝 Share your feedback
+
+🐞 Report issues
+
+💡 Suggest improvements
+
+🤝 Become a contributor
+
+Every contribution strengthens the governance movement.
+
+---
+
+# 📢 Call to Action
+
+Whether you manage a **Durga Puja Committee**, **Temple Trust**, **Apartment Association**, **NGO**, **Corporate CSR Program**, or simply organize family and community events—
+
+**Ashirwad is built for you.**
+
+Together, let's transform community management from **coordination** to **governance**, from **temporary committees** to **lasting institutional knowledge**, and from **good intentions** to **measurable community outcomes**.
+
+🌺 **Join the Community Governance Movement.**
+
+🤝 **Organize Better. Govern Smarter. Build Stronger Communities.**
+
+---
+
+<div align="center">
 
 # 🙏 Ashirwad – Organizer's Assistant
 
 ## 🤝 Community Decision Governance Framework™
 
-**📋 Every Decision • 👥 Every Responsibility • 📚 Every Community Legacy**
+### 🛡️ Powered by the Neelkanth Governance Initiative
 
+**📋 Transparency • 👥 Accountability • 📂 Continuity • 🌺 Community Outcomes**
 
-🌍 One Platform. Many Communities.
-🤝 One Mission. Better Governance.
-🛡️ Powered by Neelkanth.
-🌺 Delivered as Ashirwad.
+---
 
-#OrganizerAssistant #CommunityGovernance #Ashirwad #Neelkanth #DigitalCommunity #VolunteerManagement #EventManagement #Governance
+### 🌟 Our Promise
 
-Quick Links: [Launchpad](https://github.com/dipankar1055-sketch/neelkanth-community-edition) | [Governance Survey](https://forms.gle/your-survey-link) | [Case Studies](https://docs/case-studies/) | [Contact Command](mailto:hello@example.com)
+**📋 Record Every Decision**
 
-> "Governance is not a task; it is a discipline. We provide the architecture; you provide the leadership."
+**👥 Assign Every Responsibility**
 
-© 2026 Neelkanth Enterprise Pilot. All rights reserved.
+**📂 Preserve Every Community Legacy**
 
-Precision-engineered for community integrity.  
-Built with ❤️ for communities that deserve transparency.
+**🌺 Strengthen Every Generation of Organizers**
 
+---
+
+**Made with ❤️ for Communities Across the World**
+
+© 2026 Ashirwad – Organizer's Assistant
+
+**Learn • Serve • Organize • Govern • Inspire** 🙏🌺
+
+</div>
 

@@ -1305,9 +1305,9 @@ with appropriate attribution.
 
 ## 📘 Facebook Community
 
-**Career Command by Chakravarthy**
+**Ashirwad - Orgainzer's Assistant**
 
-🔗 https://www.facebook.com/profile.php?id=61591489870360
+🔗 *https://www.facebook.com/profile.php?id=61591421513099*
 
 ---
 
